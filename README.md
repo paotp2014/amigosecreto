@@ -1,5 +1,9 @@
 # 🎉 Amigo Secreto 🎉
 
+<p align="center">
+  <h1>Amigo Secreto</h1>
+</p>
+
 ¡Bienvenidos a la aplicación **Amigo Secreto**! Esta aplicación te permite agregar los nombres de tus amigos, visualizarlos en una lista y sortear aleatoriamente un amigo para el juego de Amigo Secreto.
 
 ## 🚀 Descripción
