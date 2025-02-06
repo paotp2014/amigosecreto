@@ -12,6 +12,14 @@ Esta aplicación te ayuda a organizar y ejecutar el juego de Amigo Secreto de ma
 - **Mostrar Lista de Amigos**: Muestra los nombres ingresados en una lista.
 - **Sortear Amigo Aleatorio**: Selecciona y muestra un amigo aleatorio de la lista.
 
+## 🛠️ Tecnologías Utilizadas
+
+- **HTML5**: Estructura del contenido.
+
+- **CSS3**: Estilos y diseño responsivo.
+
+- **JavaScript**: Lógica de la aplicación.
+
 ## 📂 Estructura del Proyecto
 
 ```plaintext
@@ -22,11 +30,3 @@ Esta aplicación te ayuda a organizar y ejecutar el juego de Amigo Secreto de ma
 ├── app.js
 ├── index.html
 └── README.md
-
-## 🛠️ Tecnologías Utilizadas
-
-- **HTML5**: Estructura del contenido.
-
-- **CSS3**: Estilos y diseño responsivo.
-
-- **JavaScript**: Lógica de la aplicación.
